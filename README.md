@@ -2,7 +2,9 @@
 
 <p align="center">
 <h1>Apresentação</h1>
-Olá! Meu nome é Nathan Lucas, sou um desenvolvedor Full Stack júnior apaixonado por criar soluções completas, eficientes e escaláveis. Tenho experiência tanto na construção de APIs robustas com Java e Spring quanto no desenvolvimento de interfaces modernas e dinâmicas utilizando React e Next.js. Busco sempre unir código limpo, performance e uma ótima experiência de usuário. Fique à vontade para explorar meus repositórios!
+Olá! Meu nome é Nathan Lucas. Sou desenvolvedor de software e técnico em automação industrial em formação, focado na convergência entre software e automação (IT/OT).
+
+Desenvolvo simulações industriais e lógicas de controle (TIA Portal, Factory I/O, CODESYS) integradas a algoritmos em C++, C# e Python para coleta de dados, telemetria e supervisão. Também possuo bagagem no desenvolvimento de aplicações com Java e ecossistema web, aplicando essa base para criar soluções completas para a indústria 4.0.
 </p>
 
 
