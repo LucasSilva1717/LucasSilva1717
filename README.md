@@ -1,11 +1,20 @@
 <div align="center">
 
 <p align="center">
-<h1>Apresentação</h1>
-Olá! Meu nome é Nathan Lucas. Sou desenvolvedor de software e técnico em automação industrial em formação, focado na convergência entre software e automação (IT/OT).
-
-Desenvolvo simulações industriais e lógicas de controle (TIA Portal, Factory I/O, CODESYS) integradas a algoritmos em C++, C# e Python para coleta de dados, telemetria e supervisão. Também possuo bagagem no desenvolvimento de aplicações com Java e ecossistema web, aplicando essa base para criar soluções completas para a indústria 4.0.
+  <h2>  Olá, seja muito bem-vindo(a) ao meu perfil!</h2>
+  
+  <p>Sou <b>Nathan Lucas</b>, desenvolvedor de software e técnico em automação industrial, apaixonado por construir a ponte entre o mundo digital e o físico.</p>
 </p>
+
+---
+
+### ⌨️ O que eu faço:
+*  **Convergência IT/OT:**  Integração avançada entre sistemas de controle industrial e arquiteturas de software modernas.
+*  **Desenvolvimento fullstack & Sistemas:**  Criação de aplicações robustas e escaláveis utilizando C++, C#, Java e Python.
+*  **Automação & IIoT:**  Projetos com CLPs e HMIs (TIA Portal, Studio 5000, CODESYS), Factory I/O, Modbus TCP e simulações via NetToPLCSIM.
+
+
+---
 
 
 <p align="center">
