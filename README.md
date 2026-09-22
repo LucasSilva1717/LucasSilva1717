@@ -10,9 +10,12 @@ Desenvolvo simulações industriais e lógicas de controle (TIA Portal, Factory 
 
 <p align="center">
   <h2>LINGUAGENS</h2>
-  <img align="center" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-  <img align="center" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicon/devicon@latest/icons/java/java-plain.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicon/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicon/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicon/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicon/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicon/devicon@latest/icons/python/python-original.svg" />
 </p>
 
 <p align="center">
